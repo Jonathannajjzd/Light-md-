@@ -1,4 +1,4 @@
-# VENOM-2
+# Light-2
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <img src="https://i.imgur.com/o3rgLGK.jpeg"/> 
@@ -88,7 +88,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 > git clone https://github.com/DeeCeeXxx/Venom-2.git
 ```
 ```
-> cd Venom-2
+> cd light-2
 ```
 ```
 > yarn install
