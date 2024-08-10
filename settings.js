@@ -11,8 +11,8 @@ global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
 global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
-global.ownername = 'David Cyril' //owner name
-global.botname = '🕷Venom-2🕷' //name of the bot
+global.ownername = 'junior the  king' //owner name
+global.botname = 'light-md' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -22,15 +22,14 @@ global.author = 'David_Cyril\n\nContact: +2349066528353'
 global.themeemoji = '🪀'
 global.wm = "David Cyril Tech."
 
-//theme link
-global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
+//theme 'https://whatsapp.com/channel/0029VaffeGhCRs1gBlYjdV21'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
